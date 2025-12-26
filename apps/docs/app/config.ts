@@ -1,0 +1,2 @@
+export const backend_url="http://localhost:3000";
+export const ws_url="ws://localhost:8080?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI4NWQ3M2UyMi02YjM1LTQzOTgtYjRkNC1hZDJmOTI1ZjA1MDIiLCJpYXQiOjE3NjY2NjMwNDgsImV4cCI6MTc2NzI2Nzg0OH0.3y5i8lFCdYXfuTON3tIIhNDQSQmSqJoBvvydUTHcdLA";
